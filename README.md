@@ -80,12 +80,6 @@ A Python-based ETL system for processing curriculum data from Excel files and st
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UraN9&show_icons=true&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dmytro-kshyvetskyi/)
