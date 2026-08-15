@@ -60,7 +60,7 @@ A Telegram bot that allows users to index photos and find them using text querie
 
 ---
 
-### 📚 Curriculum Parser
+### 📚 [Curriculum Parser](https://github.com/UraN9/curriculum-parser)
 
 **Automated ETL pipeline for curriculum data**
 
@@ -82,7 +82,7 @@ A Python-based ETL system for processing curriculum data from Excel files and st
 
 ## 📊 GitHub Stats
 
-![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=UraN9&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UraN9&show_icons=true&hide_border=true)
 
 ---
 
