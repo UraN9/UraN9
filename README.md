@@ -83,7 +83,7 @@ A Python-based ETL system for processing curriculum data from Excel files and st
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dmytro-kshyvetskyi/)
-- 📧 **Email:** kwuvezzzkuy@gmail.com
+- 📧 **Email:** dmytro.kshivetskyi@gmail.com
 - 💻 [GitHub](https://github.com/UraN9)
 
 ---
